@@ -50,10 +50,11 @@ Setelah terhubung, Anda dapat mulai mengirimkan perintah:
 # Contoh Output 
 
 ## Output Sisi Server
-![image](https://github.com/user-attachments/assets/bd7f3462-ae61-4faf-bc7a-d02ff01abf24)
+![image](https://github.com/user-attachments/assets/e9df3920-10d3-408e-9e5b-5569cea02548)
 
 ## Output Sisi Client
-![image](https://github.com/user-attachments/assets/037608dc-40e0-4400-a7e8-23d937e7da86)
+![image](https://github.com/user-attachments/assets/591f4be4-045c-452f-899f-86b3a31660a2)
+![image](https://github.com/user-attachments/assets/318c7f39-b561-45e3-8697-c58b846351f5)
 
 ---
 
